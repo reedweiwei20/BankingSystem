@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822424546399",
+    "project_id": "bankingapp-b5f14",
+    "storage_bucket": "bankingapp-b5f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822424546399:android:d3689e1c2b3d304cf17fea",
+        "android_client_info": {
+          "package_name": "com.sleepingpandaaa.banking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822424546399-tv0rasof843h18l3eae205p1u9hn928v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwh10F6mox5NRmODNhBTvW3N_euN61mks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822424546399-tv0rasof843h18l3eae205p1u9hn928v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
